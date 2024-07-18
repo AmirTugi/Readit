@@ -22,7 +22,7 @@ export const Header = () => {
       <HStack spacing={8}>
         <HStack alignItems="center">
           <Image src={readitLogo} />
-          <Text textStyle="h2" color="grey.0">
+          <Text as="h3" textStyle="h3" color="grey.0">
             Readit
           </Text>
         </HStack>

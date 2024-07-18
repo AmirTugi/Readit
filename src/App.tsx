@@ -1,6 +1,6 @@
 import { Grid, GridItem } from "@chakra-ui/react";
 import { Header } from "./Header";
-import { ReadingList } from "./ReadingList";
+import { ReadingListPage } from "./ReadingListPage";
 
 function App() {
   return (
@@ -18,8 +18,8 @@ function App() {
       <GridItem area={"header"}>
         <Header />
       </GridItem>
-      <GridItem pl="2" area={"main"}>
-        <ReadingList />
+      <GridItem pl="2" area={"main"} overflow="auto">
+        <ReadingListPage />
       </GridItem>
     </Grid>
   );

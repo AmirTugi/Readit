@@ -9,14 +9,17 @@ export const theme = extendTheme({
   config,
   styles: {
     global: {
+      "#root": {
+        overflow: "hidden",
+      },
       "html, body, #root": {
         height: "100%",
       },
     },
   },
   fonts: {
-    heading: `'Epilogue', sans-serif`,
-    body: `'Epilogue', sans-serif`,
+    heading: `'Open Sans', sans-serif`,
+    body: `'Open Sans', sans-serif`,
   },
   textStyles: {
     h1: {
@@ -26,6 +29,11 @@ export const theme = extendTheme({
       lineHeight: "110%",
     },
     h2: {
+      fontSize: "2xl",
+      fontWeight: "bold",
+      lineHeight: "110%",
+    },
+    h3: {
       fontSize: "lg",
       fontWeight: "bold",
       lineHeight: "110%",

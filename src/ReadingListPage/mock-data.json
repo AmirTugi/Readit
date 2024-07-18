@@ -1,0 +1,102 @@
+[
+  {
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780061120084",
+    "status": "Done",
+    "rating": 5,
+    "coverURL": "https://picsum.photos/id/137/70/70",
+    "notes": "Classic novel set in the American South.",
+    "order": 1
+  },
+  {
+    "name": "1984",
+    "author": "George Orwell",
+    "isbn": "9780451524935",
+    "status": "Done",
+    "rating": 4,
+    "coverURL": "https://picsum.photos/id/147/70/70",
+    "notes": "Dystopian novel about totalitarianism.",
+    "order": 2
+  },
+  {
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9780141439518",
+    "status": "Done",
+    "rating": 5,
+    "coverURL": "https://picsum.photos/id/157/70/70",
+    "notes": "Classic romance novel set in Regency-era England.",
+    "order": 3
+  },
+  {
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "9780316769488",
+    "status": "TBR",
+    "rating": null,
+    "coverURL": "https://picsum.photos/id/167/70/70",
+    "notes": "Coming-of-age novel.",
+    "order": 4
+  },
+  {
+    "name": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "isbn": "9781408855652",
+    "status": "Done",
+    "rating": 4.5,
+    "coverURL": "https://picsum.photos/id/177/70/70",
+    "notes": "First book in the Harry Potter series.",
+    "order": 5
+  },
+  {
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565",
+    "status": "Not Recommended",
+    "rating": null,
+    "coverURL": "https://picsum.photos/id/187/70/70",
+    "notes": "Classic American novel set in the Jazz Age.",
+    "order": 6
+  },
+  {
+    "name": "Moby-Dick",
+    "author": "Herman Melville",
+    "isbn": "9780142437247",
+    "status": "TBR",
+    "rating": null,
+    "coverURL": "https://picsum.photos/id/197/70/70",
+    "notes": "Novel about Captain Ahab's obsession with a white whale.",
+    "order": 7
+  },
+  {
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780547928227",
+    "status": "Done",
+    "rating": 4.5,
+    "coverURL": "https://picsum.photos/id/237/70/70",
+    "notes": "Fantasy novel set in Middle-earth.",
+    "order": 8
+  },
+  {
+    "name": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "isbn": "9780141441146",
+    "status": "DNF",
+    "rating": 4,
+    "coverURL": "https://picsum.photos/id/217/70/70",
+    "notes": "Gothic novel about the life of an orphan.",
+    "order": 9
+  },
+  {
+    "name": "The Road",
+    "author": "Cormac McCarthy",
+    "isbn": "9780307387899",
+    "status": "Not Recommended",
+    "rating": null,
+    "coverURL": "https://picsum.photos/id/227/70/70",
+    "notes": "Post-apocalyptic novel.",
+    "order": 10
+  }
+]
