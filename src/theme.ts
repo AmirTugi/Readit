@@ -83,5 +83,24 @@ export const theme = extendTheme({
         flexShrink: 0,
       },
     },
+    Input: {
+      variants: {
+        filled: {
+          field: {
+            backgroundColor: "grey.200",
+            color: "grey.900",
+            _hover: {
+              backgroundColor: "grey.300",
+            },
+            _focus: {
+              backgroundColor: "grey.200",
+            },
+            _placeholder: {
+              color: "grey.700",
+            },
+          },
+        },
+      },
+    },
   },
 });

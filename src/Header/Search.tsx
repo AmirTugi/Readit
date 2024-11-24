@@ -6,6 +6,6 @@ export const Search = () => (
     <InputLeftElement pointerEvents="none">
       <SearchIcon color="gray.600" />
     </InputLeftElement>
-    <Input variant="filled" placeholder="Filled" />
+    <Input variant="filled" placeholder="Search book" />
   </InputGroup>
 );
